@@ -13,9 +13,8 @@ module.exports = {
         "primary-500": "#ff6b66",
         "secondary-400": "#ffcd58",
         "secondary-500": "#ffc132",
-      }
-      ,
-         backgroundImage: (theme) => ({
+      },
+      backgroundImage: (theme) => ({
         "gradient-yellowred":
           "linear-gradient(90deg, #FF616A 0%, #FFC837 100%)",
         "mobile-home": "url('./assets/HomePageGraphic.png')",
